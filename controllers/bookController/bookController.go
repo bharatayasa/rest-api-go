@@ -1,4 +1,4 @@
-package bookcontroller
+package bookcontrollers
 
 import (
 	"github.com/gofiber/fiber/v2"
